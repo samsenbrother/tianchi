@@ -1,0 +1,13 @@
+---
+title: "notes"
+author: "samsen"
+date: "24/03/2015"
+output: html_document
+---
+
+#ｇｇｐｌｏｔ报错Error in .Call.graphics(C_palette2, .Call(C_palette2, NULL)) : 
+
+```{r}
+#输入dev.off()－－－－－－－可能是之前输入过什么导致图层混乱
+```
+
