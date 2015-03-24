@@ -1,0 +1,14 @@
+---
+title: "hadoop"
+author: "samsen"
+date: "24/03/2015"
+output: html_document
+---
+
+#安装单机版ｈａｄｏｏｐ
+
+```{r}
+#hadoop的分布式处理是大数据处理的必不可少的技术之一，尝试自己配置ｈａｄｏｏｐ
+```
+
+![Alt text](photoes/hadoop.png)
